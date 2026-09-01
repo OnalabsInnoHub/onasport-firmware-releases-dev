@@ -43,7 +43,7 @@
             "version": "3.1.1-dev32946410705",
             "description": "RR jitter fix",
             "variant": "production",
-            "md5sum": "5e48f78cb7cef8765d90a8e39ee4ee71",
+            "md5sum": "5e48f78cb7cef8765d90a8e39ee4ee72",
             "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-3.1.1-dev32946410705.sfb"
         }
     ]
