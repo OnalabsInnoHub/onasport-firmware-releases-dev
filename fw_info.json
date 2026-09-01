@@ -11,6 +11,26 @@
             "variant": "development",
             "md5sum": "e9c63e08231e98c3095d93af205d90fd",
             "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-3.1.0.sfb"
+        },
+        {
+            "version": "3.1.1-rc0",
+            "variant": "development",
+            "md5sum": "79121cc4c0f9f528b7ab9067a8fcf6d1",
+            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-3.1.1-rc0.sfb"
+        },
+        {
+            "version": "4.0.0-dev26236054360",
+            "description": "Latest ONAS00 Implementation",
+            "variant": "development",
+            "md5sum": "d98d65fb9bb9e6835b84855178c7fd4a",
+            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-4.0.0-dev26236054360.sfb"
+        },
+        {
+            "version": "4.0.0-dev26236054360",
+            "description": "Latest ONAS00 Implementation",
+            "variant": "production",
+            "md5sum": "3cab11fd6617c4b9e78e66957d6c29f0",
+            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-4.0.0-dev26236054360.sfb"
         }
     ]
 }
