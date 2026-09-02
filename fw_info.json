@@ -19,6 +19,12 @@
             "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-3.1.1-rc0.sfb"
         },
         {
+            "version": "3.1.1-rc0",
+            "variant": "production",
+            "md5sum": "2d63c803ef3c4c50068944c0f6151284",
+            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-3.1.1-rc0.sfb"
+        },
+        {
             "version": "4.0.0-dev26236054360",
             "description": "Latest ONAS00 Implementation",
             "variant": "development",
