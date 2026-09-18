@@ -2,27 +2,17 @@
     "firmware": [
         {
             "version": "3.1.0",
+            "description": "Current release",
             "variant": "production",
             "md5sum": "2685ae997cd2fb6766e815dd9712b7e2",
             "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-3.1.0.sfb"
         },
         {
             "version": "3.1.0",
+            "description": "Current release",
             "variant": "development",
             "md5sum": "e9c63e08231e98c3095d93af205d90fd",
             "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-3.1.0.sfb"
-        },
-        {
-            "version": "3.1.1-rc0",
-            "variant": "development",
-            "md5sum": "79121cc4c0f9f528b7ab9067a8fcf6d1",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-3.1.1-rc0.sfb"
-        },
-        {
-            "version": "3.1.1-rc0",
-            "variant": "production",
-            "md5sum": "2d63c803ef3c4c50068944c0f6151284",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-3.1.1-rc0.sfb"
         },
         {
             "version": "4.0.0-dev26236054360",
@@ -39,20 +29,6 @@
             "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-4.0.0-dev26236054360.sfb"
         },
         {
-            "version": "3.1.1-dev32946410705",
-            "description": "RR jitter fix",
-            "variant": "development",
-            "md5sum": "9c14fcf6d0a1929979f10f8f315f09c7",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-3.1.1-dev32946410705.sfb"
-        },
-        {
-            "version": "3.1.1-dev32946410705",
-            "description": "RR jitter fix",
-            "variant": "production",
-            "md5sum": "5e48f78cb7cef8765d90a8e39ee4ee72",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-3.1.1-dev32946410705.sfb"
-        },
-        {
             "version": "3.1.1-dev33875309833",
             "description": "RR jitter fix no gaps",
             "variant": "development",
@@ -65,6 +41,20 @@
             "variant": "production",
             "md5sum": "463b74b67de7bd11511ae28cbbd023e0",
             "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-3.1.1-dev33875309833.sfb"
+        },
+        {
+            "version": "4.0.0-dev35323365281",
+            "description": "Fast-Forward - RR jitter fix no gaps",
+            "variant": "development",
+            "md5sum": "dedeebac378984d651f09169565f5d94",
+            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-4.0.0-dev35323365281.sfb"
+        },
+        {
+            "version": "4.0.0-dev35323365281",
+            "description": "Fast-Forward - RR jitter fix no gaps",
+            "variant": "production",
+            "md5sum": "f930999d6a2f2f29b67084b2b6dc6e99",
+            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-4.0.0-dev35323365281.sfb"
         }
     ]
 }

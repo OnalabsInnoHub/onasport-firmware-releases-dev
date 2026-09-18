@@ -6,3 +6,6 @@ To update a new firmware file:
 * Upload the compiled .sfb files into the repository.
 * Compute a md5sum identifier from https://emn178.github.io/online-tools/md5_checksum.html.
 * Update appropriately the fw_info.json file. A description can be added to provide more context to that specific firmware version files.
+
+The latest version released in production must be available always.
+Old legacy fimware versions must be cleaned up both the .sfb file and the input entry in fw_info.json accordingly.
