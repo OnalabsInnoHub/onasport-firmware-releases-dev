@@ -15,18 +15,18 @@
             "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-3.1.0.sfb"
         },
         {
-            "version": "4.0.0-dev26236054360",
-            "description": "Latest ONAS00 Implementation",
+            "version": "4.0.0-dev35606608873",
+            "description": "SFR-325 + Latest ONAS00 implementation",
             "variant": "development",
-            "md5sum": "d98d65fb9bb9e6835b84855178c7fd4a",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-4.0.0-dev26236054360.sfb"
+            "md5sum": "a3a52fbc294cd712bf04745bd94d42ca",
+            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-4.0.0-dev35606608873.sfb"
         },
         {
-            "version": "4.0.0-dev26236054360",
-            "description": "Latest ONAS00 Implementation",
+            "version": "4.0.0-dev35606608873",
+            "description": "SFR-325 + Latest ONAS00 implementation",
             "variant": "production",
-            "md5sum": "3cab11fd6617c4b9e78e66957d6c29f0",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-4.0.0-dev26236054360.sfb"
+            "md5sum": "75ff360a67f1544eedc2911c65618e40",
+            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-4.0.0-dev35606608873.sfb"
         },
         {
             "version": "3.1.1-dev33875309833",
