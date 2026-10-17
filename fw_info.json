@@ -69,6 +69,13 @@
       "variant": "development",
       "md5sum": "fc9d41168d42f5c1be1b2be658095f57",
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-core-rc3.sfb"
+    },
+    {
+      "version": "4.0.0-core-fix-1395",
+      "description": "core fix/SFD-1395",
+      "variant": "development",
+      "md5sum": "e1b92d895207483af44317ed556998af",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-core-fix-1395.sfb"
     }
   ]
 }
