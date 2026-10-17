@@ -62,6 +62,13 @@
       "variant": "development",
       "md5sum": "49e5a041ee4b76600ec5a62f17617531",
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-C.sfb"
+    },
+    {
+      "version": "4.0.0-core-rc3",
+      "description": "core 6.0.0-rc3 (release/6.0.0)",
+      "variant": "development",
+      "md5sum": "fc9d41168d42f5c1be1b2be658095f57",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-core-rc3.sfb"
     }
   ]
 }
