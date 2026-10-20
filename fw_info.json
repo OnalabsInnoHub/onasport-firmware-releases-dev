@@ -1,67 +1,74 @@
 {
-    "firmware": [
-        {
-            "version": "3.1.0",
-            "description": "Current release",
-            "variant": "production",
-            "md5sum": "2685ae997cd2fb6766e815dd9712b7e2",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-3.1.0.sfb"
-        },
-        {
-            "version": "3.1.0",
-            "description": "Current release",
-            "variant": "development",
-            "md5sum": "e9c63e08231e98c3095d93af205d90fd",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-3.1.0.sfb"
-        },
-        {
-            "version": "4.0.0-dev36865020419",
-            "description": "ONAS00 + core-6.0.0-rc0",
-            "variant": "development",
-            "md5sum": "7943fb95fdf2967f51dff5b351a10b04",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-4.0.0-dev36865020419.sfb"
-        },
-        {
-            "version": "4.0.0-dev36865020419",
-            "description": "ONAS00 + core-6.0.0-rc0",
-            "variant": "production",
-            "md5sum": "368890f2a415b42521810e7b041c490f",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-4.0.0-dev36865020419.sfb"
-        },
-        {
-            "version": "4.0.0-coreRD-E",
-            "description": "DEV-1087-E",
-            "variant": "development",
-            "md5sum": "5cbc2ecb89616dc89b441bcacc41ec21",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-E.sfb"
-        },
-        {
-            "version": "4.0.0-coreRD-A",
-            "description": "DEV-1087-A",
-            "variant": "development",
-            "md5sum": "08a80661b9ed6d7c64f0991c33047fdc",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-A.sfb"
-        },
-        {
-            "version": "4.0.0-coreRD-B",
-            "description": "DEV-1087-B",
-            "variant": "development",
-            "md5sum": "8238a0b08c7a246b0b8faacf66c094ab",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-B.sfb"
-        },
-        {
-            "version": "4.0.0-coreRD-D",
-            "description": "DEV-1087-D",
-            "variant": "development",
-            "md5sum": "f6730402a461a6d9f0a74fc7e883dfbb",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-D.sfb"
-        },
-        {
-            "version": "4.0.0-coreRD-C",
-            "description": "DEV-1087-C",
-            "variant": "development",
-            "md5sum": "49e5a041ee4b76600ec5a62f17617531",
-            "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-C.sfb"
-        }
-    ]
+  "firmware": [
+    {
+      "version": "3.1.0",
+      "description": "Current release",
+      "variant": "production",
+      "md5sum": "2685ae997cd2fb6766e815dd9712b7e2",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-3.1.0.sfb"
+    },
+    {
+      "version": "3.1.0",
+      "description": "Current release",
+      "variant": "development",
+      "md5sum": "e9c63e08231e98c3095d93af205d90fd",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-3.1.0.sfb"
+    },
+    {
+      "version": "4.0.0-dev36865020419",
+      "description": "ONAS00 + core-6.0.0-rc0",
+      "variant": "development",
+      "md5sum": "7943fb95fdf2967f51dff5b351a10b04",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-4.0.0-dev36865020419.sfb"
+    },
+    {
+      "version": "4.0.0-dev36865020419",
+      "description": "ONAS00 + core-6.0.0-rc0",
+      "variant": "production",
+      "md5sum": "368890f2a415b42521810e7b041c490f",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-4.0.0-dev36865020419.sfb"
+    },
+    {
+      "version": "4.0.0-coreRD-E",
+      "description": "DEV-1087-E",
+      "variant": "development",
+      "md5sum": "5cbc2ecb89616dc89b441bcacc41ec21",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-E.sfb"
+    },
+    {
+      "version": "4.0.0-coreRD-A",
+      "description": "DEV-1087-A",
+      "variant": "development",
+      "md5sum": "08a80661b9ed6d7c64f0991c33047fdc",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-A.sfb"
+    },
+    {
+      "version": "4.0.0-coreRD-B",
+      "description": "DEV-1087-B",
+      "variant": "development",
+      "md5sum": "8238a0b08c7a246b0b8faacf66c094ab",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-B.sfb"
+    },
+    {
+      "version": "4.0.0-coreRD-D",
+      "description": "DEV-1087-D",
+      "variant": "development",
+      "md5sum": "f6730402a461a6d9f0a74fc7e883dfbb",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-D.sfb"
+    },
+    {
+      "version": "4.0.0-coreRD-C",
+      "description": "DEV-1087-C",
+      "variant": "development",
+      "md5sum": "49e5a041ee4b76600ec5a62f17617531",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-C.sfb"
+    },
+    {
+      "version": "4.0.0-hw3",
+      "description": "core feat/hw_v3 (HW v3 development)",
+      "variant": "development",
+      "md5sum": "f8a2a6dcb0f38c796040e17d6931cd56",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-hw3.sfb"
+    }
+  ]
 }
