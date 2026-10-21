@@ -50,13 +50,6 @@
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-coreRD-E.sfb"
     },
     {
-      "version": "4.0.0-hw3",
-      "description": "core feat/hw_v3 (HW v3 development)",
-      "variant": "development",
-      "md5sum": "f8a2a6dcb0f38c796040e17d6931cd56",
-      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-hw3.sfb"
-    },
-    {
       "version": "4.0.0-rc0",
       "description": "Release candidate 4.0.0",
       "variant": "development",
@@ -69,13 +62,6 @@
       "variant": "production",
       "md5sum": "6fffcc83ef32bdec6f89a1a3a108f478",
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-4.0.0-rc0.sfb"
-    },
-    {
-      "version": "4.0.0-hw3-timers",
-      "description": "core feat/hw_v3 (HW v3 development)",
-      "variant": "development",
-      "md5sum": "a51b3eda5b9e9a04a66af23bbedd6093",
-      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-hw3-timers.sfb"
     }
   ]
 }
