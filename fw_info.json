@@ -90,6 +90,13 @@
       "variant": "development",
       "md5sum": "662636d9ecf762c475aec5a870761df2",
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-bat2.sfb"
+    },
+    {
+      "version": "4.0.0-bat3",
+      "description": "battery testing wip",
+      "variant": "development",
+      "md5sum": "e973991ce91f840b3fbdca75a505a22e",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-bat3.sfb"
     }
   ]
 }
