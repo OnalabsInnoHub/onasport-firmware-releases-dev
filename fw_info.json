@@ -97,6 +97,13 @@
       "variant": "development",
       "md5sum": "e973991ce91f840b3fbdca75a505a22e",
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-bat3.sfb"
+    },
+    {
+      "version": "4.0.0-dev41064708254",
+      "description": "proposal of sweat rate fix",
+      "variant": "development",
+      "md5sum": "7e518744505de1f48eae61b5d24de37b",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-4.0.0-dev41064708254.sfb"
     }
   ]
 }
