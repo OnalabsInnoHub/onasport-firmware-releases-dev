@@ -97,6 +97,13 @@
       "variant": "production",
       "md5sum": "00edd72354753d8613203273a61aeebe",
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_core-4.0.0-rawData.sfb"
+    },
+    {
+      "version": "4.0.0",
+      "description": "raw data version but app bug",
+      "variant": "production",
+      "md5sum": "2f9ca51c2ab9ee12097deaea157186b8",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_core-4.0.0.sfb"
     }
   ]
 }
