@@ -92,6 +92,13 @@
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-bat3.sfb"
     },
     {
+      "version": "4.0.0-dev41182914351",
+      "description": "Current release + Old cartridges",
+      "variant": "production",
+      "md5sum": "808b06bfe70656988e50b655cdd83533",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-4.0.0-dev41182914351.sfb"
+    },
+    {
       "version": "4.0.0-rawData",
       "description": "4.0.0-rawData",
       "variant": "production",
