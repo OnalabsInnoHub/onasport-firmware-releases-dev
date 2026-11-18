@@ -103,14 +103,14 @@
       "description": "Old ONAS10 + raw lactateCurrent",
       "variant": "development",
       "md5sum": "3c6ad0b3dcaa45fd254b69e90c84d5d1",
-      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.0-dev44277501548.sfb"
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_base-4.0.0-dev44277501548.sfb"
     },
     {
       "version": "4.0.0-dev44277501548",
       "description": "Old ONAS10 + raw lactateCurrent",
       "variant": "production",
       "md5sum": "e1cf95b833ad2a090489741b67579a23",
-      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_core-4.0.0-dev44277501548.sfb"
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-4.0.0-dev44277501548.sfb"
     }
   ]
 }
