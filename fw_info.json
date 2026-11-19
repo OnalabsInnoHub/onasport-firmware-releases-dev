@@ -113,13 +113,6 @@
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_base-4.0.0-dev44277501548.sfb"
     },
     {
-      "version": "6.0.0-vote0",
-      "description": "DEVR-70 diag: CON stop vote NOT released (bug repro). Model Number = 8B state dump",
-      "variant": "production",
-      "md5sum": "a588f68478ee522cbec9dea01b697236",
-      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_core-6.0.0-vote0.sfb"
-    },
-    {
       "version": "6.0.0-vote1",
       "description": "DEVR-70 diag: CON stop vote released on exit (fix). Model Number = 8B state dump",
       "variant": "development",
@@ -139,6 +132,13 @@
       "variant": "development",
       "md5sum": "dbc8aa03a85094d72da6d08cef2d9587",
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-6.0.0-vote0.sfb"
+    },
+    {
+      "version": "6.0.0-vote0",
+      "description": "DEVR-70 diag: CON stop vote NOT released (bug repro). Model Number = 8B state dump",
+      "variant": "production",
+      "md5sum": "234c7a7cc1eae3de967ce7b080dd5801",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_core-6.0.0-vote0.sfb"
     }
   ]
 }
