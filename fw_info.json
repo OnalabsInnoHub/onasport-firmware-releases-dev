@@ -125,6 +125,13 @@
       "variant": "production",
       "md5sum": "015f14d48c465f0d77053e5f43aaa369",
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_core-6.0.0-fix.sfb"
+    },
+    {
+      "version": "4.0.1-fix_DEVR48",
+      "description": "SFD-1528 + SFD-1529 fix build (clean, no diagnostics): CON Stop vote released on exit, leave test mode on initiator disconnect. Head of fix/DEVR-48",
+      "variant": "development",
+      "md5sum": "0bd738ec64edde9f81aece33ec2064ba",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-4.0.1-fix_DEVR48.sfb"
     }
   ]
 }
