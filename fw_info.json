@@ -139,6 +139,13 @@
       "variant": "production",
       "md5sum": "eacc95dfcec3c9b1d2731e1df7c695fd",
       "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/Onasport_core-6.0.0-vote1.sfb"
+    },
+    {
+      "version": "6.0.0-vote2",
+      "description": "DEVR-48 test: CON stop vote released on exit + leave test mode on initiator disconnect. Model Number = 8B state dump",
+      "variant": "development",
+      "md5sum": "aee652d94bd6c36f6e4a330351501270",
+      "url": "https://github.com/OnalabsInnoHub/onasport-firmware-releases-dev/raw/refs/heads/main/DEV_Onasport_core-6.0.0-vote2.sfb"
     }
   ]
 }
